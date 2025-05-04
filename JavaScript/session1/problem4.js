@@ -1,5 +1,5 @@
 //D. Logical Operators
-1 Basic Logical Operators
+//1 Basic Logical Operators
 function logicalOperations(a,b){
     console.log(a && b)
     console.log(a || b)
