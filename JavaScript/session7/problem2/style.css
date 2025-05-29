@@ -1,0 +1,17 @@
+h1,.movie{
+    text-align: center;
+}
+img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#container{
+    width: 20vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 10px;
+    line-height: 1px;
+}
